@@ -1,3 +1,5 @@
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
+
 # AIPND
 This repository contains code and associated files for the AI Programming with Python Nanodegree program. This repository consists of a number of tutorial notebooks for various coding exercises and programming labs that will be used to supplement the lessons of the course.
 
@@ -28,4 +30,8 @@ Each directory has a `requirements.txt` describing the minimal dependencies requ
 ### pip
 
 To install these dependencies with pip, you can issue `pip3 install -r requirements.txt`.
+
+### lisence
+
+
 
